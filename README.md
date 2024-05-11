@@ -42,3 +42,7 @@ which, for this example, should print
 ```
 No of book by this author: 2
 ```
+
+## Solution
+
+[Replit](https://replit.com/@piecucci/Task7Library?v=1)
