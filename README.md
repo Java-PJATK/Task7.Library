@@ -46,3 +46,35 @@ No of book by this author: 2
 ## Solution
 
 [Replit](https://replit.com/@piecucci/Task7Library?v=1)
+
+```java
+class Book {
+    private String author;
+    private String title;
+    private String body;
+
+    public Book(String author, String title, String body) {
+        this.author = author;
+        this.title = title;
+        this.body = body;
+    }
+
+    public String getAuthor() {
+        return author;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public String getBody() {
+        return body;
+    }
+} 
+```
+
+```java
+```
+
+```java
+```
